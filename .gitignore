@@ -14,7 +14,9 @@ node_modules
 /build
 
 # API Server
-# .env
+.env
+.env.development
+.env.production
 
 # misc
 .DS_Store
