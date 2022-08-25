@@ -8,7 +8,7 @@
 
 - HTTP 통신 라이브러리는 `axios`를 사용합니다. 
 
-- CSS in JS는 `emotion/styled`를 사용합니다. (기존 styled-component 와 동작이 같음)
+- CSS in JS는 `emotion/styled`를 사용합니다.
 
 - 데이터 패칭은 `react-query`를 사용합니다.
   - 참고 사이트 
